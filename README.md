@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sagarsinghrajput71
 - 👀 I’m interested in machine learning and python software develpment
 - 🌱 I’m currently learning machine learning to standford university form coursera 
-- 💞️ I’m looking to collaborate on data scientist
+- 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me ...email me sagarsinghrajput71@gmail.com
 
 <!---
